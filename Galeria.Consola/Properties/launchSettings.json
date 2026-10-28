@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "Galeria.Consola": {
+      "commandName": "Project"
+    },
+    "Benchmark": {
+      "commandName": "Project",
+      "commandLineArgs": "--benchmark"
+    }
+  }
+}
